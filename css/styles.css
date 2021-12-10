@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #575757;
+    background-color: red;
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/BYU\ background.jpg");
+}
+
+
+iframe{
+    width: 500px;
+}
+
+.myname{
+    color:rgb(151, 37, 24);
+    font-size: 50px;
+}
+
+.about-body{
+    background-image:url("../images/stary_sky_background.jpg");
+}
+
+.container{
+
+    color: red;
+}
+
+.dog{
+    color: yellow;
+}
+
+.about-1{
+    color:black;
+}
+
+.bold-CI{
+   font-weight: bold; 
+}
+
+.container{
+
+    font-family:fantasy;
+}
+.about-t{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.web{
+    color:black;
+}
+
+.web-1{
+    color:black;
+}
+
+.theader{
+    
+       width:100%;
+       color: blanchedalmond;
+      
+}
+
+.TB1{
+    width: 50% !important; 
+    color: blanchedalmond;
+}
+
+.footer{
+    width:50%;
+    color: blanchedalmond;
+    
+}
+
+.video1{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.foo2{
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+.headd {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tabbb{
+    background-image:url("../images/stary_sky_background.jpg");
+}
